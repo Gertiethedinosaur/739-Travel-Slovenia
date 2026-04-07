@@ -1,0 +1,17 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    color: brown;
+    font-family: "Grenze Gotisch", serif;
+}
+a {
+    color: rgb(0, 0, 109);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a:hover {
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
